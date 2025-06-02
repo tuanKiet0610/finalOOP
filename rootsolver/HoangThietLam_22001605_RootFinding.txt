@@ -1,0 +1,22 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=60843:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\FinalsOOP2\out\production\FinalsOOP2 last.rootsolver.RootFindingTestDrive
+Hàm cần tìm nghiệm: f(x) = x.sin(x) - 3
+Khoảng tìm nghiệm: [12.0, 14.0]
+Giá trị nghiệm tìm được: 12.802891731262207
+
+Phương pháp sử dụng: Bisection
+Hàm cần tìm nghiệm: f(x) = sin(x) * x - 3
+Khoảng tìm nghiệm: [11.0, 13.0]
+Giá trị nghiệm tìm được: 12.802891731262207
+
+Phương pháp sử dụng: Newton-Raphson
+Hàm cần tìm nghiệm: f(x) = sin(x) * x - 3
+Khoảng tìm nghiệm: [11.0, 13.0]
+Giá trị nghiệm tìm được: 12.80289177084702
+
+Phương pháp sử dụng: Secant
+Hàm cần tìm nghiệm: f(x) = sin(x) * x - 3
+Khoảng tìm nghiệm: [11.0, 13.0]
+Giá trị nghiệm tìm được: 12.802891770710833
+
+
+Process finished with exit code 0
